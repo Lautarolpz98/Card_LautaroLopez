@@ -1,16 +1,44 @@
-# card_
+# 📌 Expanding Card - Flutter UI
 
-A new Flutter project.
+## 🌟 Descripción
+Expanding Card es un widget interactivo en Flutter que se expande al tocarlo, mostrando información personal con una imagen de perfil, animaciones y enlaces a redes sociales.
 
-## Getting Started
+## ✨ Características
+- 📌 **Animación de expansión** con `AnimatedContainer`
+- 🎞 **Efecto de máquina de escribir** en la descripción con `TweenAnimationBuilder`
+- 🖼 **Imagen de perfil** con borde personalizado
+- 🔗 **Íconos de redes sociales con enlaces interactivos**
+- 📱 **Diseño responsivo** adaptado a cualquier pantalla
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologías Utilizadas
+- **Flutter & Dart**
+- **Material Design**
+- **font_awesome_flutter** (Para íconos de redes sociales)
+- **url_launcher** (Para abrir enlaces externos)
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Instalación
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/expanding-card-flutter.git
+   ```
+2. Entra en la carpeta del proyecto:
+   ```bash
+   cd expanding-card-flutter
+   ```
+3. Instala las dependencias:
+   ```bash
+   flutter pub get
+   ```
+4. Ejecuta la aplicación:
+   ```bash
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📌 Uso
+- **Toca la tarjeta** para expandirla.
+- **Explora la información**, incluyendo una imagen de perfil y una breve descripción.
+- **Accede a los enlaces** de redes sociales con un solo toque.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+📌 **Autor:** Lautaro - Desarrollador autodidacta con 2 años de experiencia en Flutter.
+
